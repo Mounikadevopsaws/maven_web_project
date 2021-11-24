@@ -6,7 +6,7 @@
   <artifactId>WebProject</artifactId>
   <packaging>war</packaging>
   <version>1.o</version>
-  <name>WebProject</name>
+  <name>Maven-WebProject</name>
   <url>http://maven.apache.org</url>
 
   <properties>
@@ -56,7 +56,7 @@
   </dependencies>
 
   <build>
-    <finalName>WebProject</finalName>
+    <finalName>Maven-WebProject</finalName>
     <sourceDirectory>src/java</sourceDirectory>
     <outputDirectory>target/classes</outputDirectory>
     <plugins>
